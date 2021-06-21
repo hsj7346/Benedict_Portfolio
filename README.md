@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Benedict's Portfolio
 
 
 ### [Bitcoin Prediction Project](https://github.com/hsj7346/bitcoin_predictions/blob/master/bitcoin_predictions.ipynb)
