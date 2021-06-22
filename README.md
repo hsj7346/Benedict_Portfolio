@@ -5,11 +5,11 @@
 
 With the recent popularity of cryptocurrency and non-fungible tokens, I wanted to make a prediction algorithm for bitcoin using Reucrrent Neural Networks and make a trading bot that trades with the prediction outcomes. I ended up using two different recurrent neural network models Long Short Term Memory Model (LSTM) and Gated Recurrent Unit Model (GRU). After training and testing the model, the trading bot trades with a 21.25% profit.
 
-![](/images/Screen%20Shot%202021-06-21%20at%208.17.59%20PM.png)
+![](/images/bitcoinprice1.png)
 
-![](/images/Screen%20Shot%202021-06-21%20at%208.18.22%20PM.png)
+![](/images/bitcoinprice2.png)
 
-![](/images/Screen%20Shot%202021-06-21%20at%208.18.12%20PM.png)
+![](/images/bitcoinprice3.png)
 
 
 ### [Deriving Different Machine Learning Algorithms using NumPy](https://github.com/hsj7346/mlwithnumpy)
@@ -28,4 +28,5 @@ The algorithms that I explore include:
 
 As the title of the project suggests, I recreate Doodle Jump using C++. 
 
-![](/images/Screen%20Shot%202021-06-21%20at%208.16.16%20PM.png)
+![](/images/doodlepic.png)
+
