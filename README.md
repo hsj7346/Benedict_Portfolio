@@ -9,3 +9,9 @@ With the recent popularity of cryptocurrency and non-fungible tokens, I wanted t
 ### [Deriving Different Machine Learning Algorithms using NumPy](https://github.com/hsj7346/mlwithnumpy)
 
 In this project, I use NumPy to recreate some of the commonly used machine learning algorithms used today.
+
+
+### [Recreating Doodle Jump using C++](https://github.com/hsj7346/doodlejump)
+
+As the title of the project suggests, I recreate Doodle Jump using C++. 
+
