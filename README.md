@@ -24,6 +24,16 @@ The algorithms that I explore include:
 - Deep Learning Neural Networks and Convolutional Neural Networks
 - Reinforcement Learning with multi-armed-bandit problem and QLearning
 
+### [Data Visualization with R GGPlot](https://github.com/hsj7346/dataviswithR)
+
+[Link to App](https://benedictjung.shinyapps.io/FinalProj/)
+
+The data I used for my final project is the 2020, 2019,2018,2017 Kaggle Machine Learning & Data Science Survey data set that is available on Kaggle’s website.
+In this project, I use R's ggplot to make data visualizations.
+
+I chose this data set for my project because as a student learning/ pursuing data science, I wanted to explore the industry and learn more about the different drivers and trends in the industry today. It would be interesting to find out more about the current demographics (e.g. age, gender, education level, income level) of people pursuing data science, different tools utilized in the field today (e.g. programming languages) and the level of income by experience. There was a lot of topics I could cover in the data set, but I chose to focus on diversity and trends in the industry. Since Kaggle has data sets from 2017, I tried to visualize changes that has happened over the years.
+
+
 ### [Recreating Doodle Jump using C++](https://github.com/hsj7346/doodlejump)
 
 As the title of the project suggests, I recreate Doodle Jump using C++. 
