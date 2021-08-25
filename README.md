@@ -2,7 +2,7 @@
 
 ### [NBA TOPSHOT NFT ANALYTICS Project](https://github.com/hsj7346/topshot_nft/blob/main/topshot_analysis.ipynb)
 
-This is an on-going project that I have going for myself right now. I've been following the crypto and nft markets since the beginning of 2021. In this project, I am hoping to delve in deeper to the NBA Top Shot market and create a platform that does comprehensive analytics. There are already amazing platforms out there such as MomentRanks and OTMNFT. Similarly, I am hoping to leverage all of the data that is publicly available regarding NBA Top Shot but I want to provide a deeper level of analytics such as buying/selling patterns of the top 50 accounts, under-priced moments detecting algorithms and many others. So far, I've set up an EC2 instance that is automated to collect and scrape as much useful data as possible. 
+This is an on-going project that I have going for myself right now. I've been following the crypto and nft markets since the beginning of 2021. In this project, I am hoping to delve in deeper to the NBA Top Shot market and create a platform that does comprehensive analytics. There are already amazing platforms out there such as MomentRanks and OTMNFT. Similarly, I am hoping to leverage all of the data that is publicly available regarding NBA Top Shot but I want to provide a deeper level of analytics such as buying/selling patterns of the top 50 accounts, under-priced moments detecting algorithms and many others. So far, I've set up an EC2 instance that automates collecting and scraping as much relevant data as possible. 
 
 
 ### [Bitcoin Prediction Project](https://github.com/hsj7346/bitcoin_predictions/blob/master/bitcoin_predictions.ipynb)
